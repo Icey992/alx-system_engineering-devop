@@ -1,3 +1,2 @@
 #!/bin/bash
-$ wc -1 file_txt
-
+$wc -1 file_txt
