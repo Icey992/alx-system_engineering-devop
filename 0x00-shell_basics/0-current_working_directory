@@ -1,2 +1,2 @@
 #!/bin/bash
-tmp$ wc -1 file_txt
+/tmp$ wc -l 12-file_type 
