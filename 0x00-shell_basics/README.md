@@ -1,1 +1,1 @@
-shell basics
+$ wc -l file
