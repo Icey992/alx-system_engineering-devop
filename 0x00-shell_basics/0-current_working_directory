@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:upper:]]* /tmp/u
+$wc -1 file
