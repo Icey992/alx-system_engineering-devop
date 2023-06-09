@@ -1,4 +1,5 @@
 #!/bin/bash
-su betty \
+\ sudo betty 0-iam_betty
+
 
 
